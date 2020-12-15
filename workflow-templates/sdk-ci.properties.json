@@ -1,0 +1,7 @@
+{
+  "name": "ShipEngine CI",
+  "description": "ShipEngine CI with hoverfly tests",
+  "filePatterns": [
+    "simengine"
+  ]
+}
