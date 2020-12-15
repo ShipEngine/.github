@@ -1,8 +1,8 @@
 {
-  "name": "ShipEngine CI",
-  "description": "ShipEngine CI with hoverfly tests",
+  "name": "SDK CI",
+  "description": "SDK CI with Hoverfly",
   "iconName": "icon",
   "filePatterns": [
-    "simengine$"
+    "simengine"
   ]
 }
