@@ -1,7 +1,8 @@
 {
   "name": "ShipEngine CI",
   "description": "ShipEngine CI with hoverfly tests",
+  "iconName": "icon",
   "filePatterns": [
-    "simengine"
+    "simengine$"
   ]
 }
